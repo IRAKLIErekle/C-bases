@@ -1,0 +1,14 @@
+C:\Users\irakl\source\repos\ikas console\bin\Debug\net8.0\ikas console.exe
+C:\Users\irakl\source\repos\ikas console\bin\Debug\net8.0\ikas console.deps.json
+C:\Users\irakl\source\repos\ikas console\bin\Debug\net8.0\ikas console.runtimeconfig.json
+C:\Users\irakl\source\repos\ikas console\bin\Debug\net8.0\ikas console.dll
+C:\Users\irakl\source\repos\ikas console\bin\Debug\net8.0\ikas console.pdb
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.AssemblyInfoInputs.cache
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.AssemblyInfo.cs
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.csproj.CoreCompileInputs.cache
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.dll
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\refint\ikas console.dll
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.pdb
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ikas console.genruntimeconfig.cache
+C:\Users\irakl\source\repos\ikas console\obj\Debug\net8.0\ref\ikas console.dll
